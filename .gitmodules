@@ -1,0 +1,12 @@
+[submodule "WishApp/src/main/jni"]
+	path = WishApp/src/main/jni
+	url = foremost.cto.fi:/git/android/mist-wish-addon-jni-android
+[submodule "WishApp/src/main/aidl"]
+	path = WishApp/src/main/aidl
+	url = foremost.cto.fi:/git/android/mist-wish-addon-aidl-android
+[submodule "WishApp/src/main/java/addon"]
+	path = WishApp/src/main/java/addon
+	url = foremost.cto.fi:/git/android/mist-wish-addon-android
+[submodule "WishApp/src/main/java/wish"]
+	path = WishApp/src/main/java/wish
+	url = foremost.cto.fi:/git/android/wish-app-java-binding
